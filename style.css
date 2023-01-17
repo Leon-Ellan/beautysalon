@@ -116,6 +116,10 @@ body {
   font-size: var(--subtitle-font-size)
 }
 
+.section header {
+  margin-bottom: 4rem;
+}
+
 .section header strong {
   color: var(--base-color);
 }
